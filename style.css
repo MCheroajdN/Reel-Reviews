@@ -143,7 +143,6 @@
     background-color: #1B1B1B;
     padding: 20px 15px;
   }
-  
   .site-header-nav {
     align-items: center;
     display: flex;
@@ -305,7 +304,7 @@
   
   .site-main-header h1 {
      /* Question 4, adding color using analogous color to add contrast originally color: #FFFFFF; */
-    color: #386288;
+    color: #9F4010 ;/* #5F3610; /*#99581A; /*#9A5017;/*#719D56; /*#B55E1B ;/*#B55E1B ;/*#3A5EF0 ;/* #637558 ;/*#B5A472;/*#F5CF5D ;/*#374D41;/* #756765; /*#B5766E ;/*#386288;*/
     text-transform: uppercase;
   }
   
@@ -341,7 +340,7 @@
   
   /* Question 4, adding new styling rule for h2 as specificity rule was preventing it to change color using anologous color to add contrast */
   .movie-description h2 {
-    color: #429E2C;/*#C1F2EE; /*#386288;#429E2C;*/
+    color:#3d7630; /*#4a7918; /* #3d6411; /* ;/*#4a7a26 ;/* #206726;/* #3e6720;/* #3A6720 ;/*#429E2C;/* #386288; /*#B5766E; /*#4D7528 ;/*#F56858;/*#B5766E/*#429E2C;/*#C1F2EE; /*#386288;#429E2C;*/
   }
   
   .movie-description-img,
@@ -368,17 +367,17 @@
   
   /*QUESTION 11 - added new class to html and style it here*/
   .movie-button {
-  border: 1px solid #62A7B3;
+  /*border: 1px solid #62A7B3;*/
   border-radius: 4px;
   color: #000000;
-  background-color: #139E54 ;
+  background-color: #9FB591; /* #4D7528 #139E54; #637558; #87BB67; #5C8046;*/
   }
   
   /*QUESTION 11 - added new class to html and style it here*/
   .button-reviews {
   border-radius: 4px;
   color: #ffffff;
-  background-color: #3A6389 ;
+  background-color: #637558 ;/*#3A6389 ;*/
     
   }
   
